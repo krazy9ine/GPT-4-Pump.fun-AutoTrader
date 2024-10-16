@@ -173,5 +173,4 @@ This repository sets up an automated trading system for Pump.fun meme tokens usi
 
 ---
 
-## License
-This project is licensed under the MIT License.
+## Made by Krazy9ine
